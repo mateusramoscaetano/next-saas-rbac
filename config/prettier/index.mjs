@@ -10,11 +10,11 @@ const config = {
   semi: false,
   singleQuote: true,
   jsxSingleQuote: true,
-  trailingComma: 'es5',
+  trailingComma: 'all',
   bracketSpacing: true,
   arrowParens: 'always',
   endOfLine: 'auto',
-  bracketSameLine: false
+  bracketSameLine: false,
 }
 
 export default config
